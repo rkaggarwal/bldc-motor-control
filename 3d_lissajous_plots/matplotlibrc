@@ -1,0 +1,21 @@
+## Matplotlib configuration
+## Rajan Aggarwal Dec 2020
+
+axes.labelsize : 16
+xtick.labelsize : 16
+ytick.labelsize : 16
+legend.fontsize : 14
+xtick.top : True
+ytick.right : True
+xtick.direction : in
+ytick.direction : in
+font.family : serif
+text.usetex : True
+axes.grid : True
+axes.unicode_minus : False
+grid.alpha : .2
+grid.color : 000000
+grid.linestyle : -
+axes.prop_cycle : cycler('color', 'brgcmyk')
+axes.titlesize : 16
+figure.titlesize : 18
